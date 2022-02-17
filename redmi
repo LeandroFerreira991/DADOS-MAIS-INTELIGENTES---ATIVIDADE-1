@@ -1,0 +1,8 @@
+Desenvolva uma função em JavaScript, coloque o conteúdo abaixo dentro de uma variável String (utilizando <CTRL>+<C> - <CTRL> +<V> mesmo) 
+e, via processamento de textos, extraia isoladamente (cada dado em uma variável) as seguintes informações:
+
+1- O nome das cidades avaliadas. ok
+2- O conteúdo do roteiro A de cada cidade avaliada. ok
+3- Quantos locais são citados no roteiro A de cada cidade. ok
+4- O nome dos pontos turísticos localizados no bairro Centro da cidade de São Paulo.
+5- O nome dos pontos turísticos localizados no bairro Downtown na cidade de Los Angeles.
